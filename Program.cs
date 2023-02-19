@@ -1,4 +1,4 @@
-Console.Clear();
+﻿Console.Clear();
 Console.Write("Введите число A: ");
 int NumberA = int.Parse(Console.ReadLine());
 Console.Write("Введите число B: ");
@@ -8,3 +8,4 @@ int max = Math.Max(NumberA, NumberB);
 
 Console.WriteLine($"Максимальное число из двух значений: ({max})");
 Console.WriteLine($"Минимальное число: ({min})");
+
