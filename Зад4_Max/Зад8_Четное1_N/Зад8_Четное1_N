@@ -1,0 +1,9 @@
+Console.Write("Введите число A: ");
+int a = int.Parse(Console.ReadLine());
+int i=0;
+while (i<a)
+{
+    i+=2; 
+    Console.Write(i);
+    }
+    
