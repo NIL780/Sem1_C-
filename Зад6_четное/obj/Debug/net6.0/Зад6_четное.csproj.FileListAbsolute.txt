@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GB ДЗ\Sem_1 дз\Семинар1\Зад6_четное\bin\Debug\net6.0\Зад6_четное.exe
+C:\Users\User\Desktop\GB ДЗ\Sem_1 дз\Семинар1\Зад6_четное\bin\Debug\net6.0\Зад6_четное.deps.json
+C:\Users\User\Desktop\GB ДЗ\Sem_1 дз\Семинар1\Зад6_четное\bin\Debug\net6.0\Зад6_четное.runtimeconfig.json
+C:\Users\User\Desktop\GB ДЗ\Sem_1 дз\Семинар1\Зад6_четное\bin\Debug\net6.0\Зад6_четное.dll
+C:\Users\User\Desktop\GB ДЗ\Sem_1 дз\Семинар1\Зад6_четное\bin\Debug\net6.0\Зад6_четное.pdb
+C:\Users\User\Desktop\GB ДЗ\Sem_1 дз\Семинар1\Зад6_четное\obj\Debug\net6.0\Зад6_четное.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GB ДЗ\Sem_1 дз\Семинар1\Зад6_четное\obj\Debug\net6.0\Зад6_четное.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GB ДЗ\Sem_1 дз\Семинар1\Зад6_четное\obj\Debug\net6.0\Зад6_четное.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GB ДЗ\Sem_1 дз\Семинар1\Зад6_четное\obj\Debug\net6.0\Зад6_четное.AssemblyInfo.cs
+C:\Users\User\Desktop\GB ДЗ\Sem_1 дз\Семинар1\Зад6_четное\obj\Debug\net6.0\Зад6_четное.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GB ДЗ\Sem_1 дз\Семинар1\Зад6_четное\obj\Debug\net6.0\Зад6_четное.dll
+C:\Users\User\Desktop\GB ДЗ\Sem_1 дз\Семинар1\Зад6_четное\obj\Debug\net6.0\refint\Зад6_четное.dll
+C:\Users\User\Desktop\GB ДЗ\Sem_1 дз\Семинар1\Зад6_четное\obj\Debug\net6.0\Зад6_четное.pdb
+C:\Users\User\Desktop\GB ДЗ\Sem_1 дз\Семинар1\Зад6_четное\obj\Debug\net6.0\Зад6_четное.genruntimeconfig.cache
+C:\Users\User\Desktop\GB ДЗ\Sem_1 дз\Семинар1\Зад6_четное\obj\Debug\net6.0\ref\Зад6_четное.dll

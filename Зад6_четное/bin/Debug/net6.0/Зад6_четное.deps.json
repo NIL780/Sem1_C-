@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Зад6_четное/1.0.0": {
+        "runtime": {
+          "Зад6_четное.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Зад6_четное/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
