@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Зад4_Max/1.0.0": {
+        "runtime": {
+          "Зад4_Max.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Зад4_Max/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

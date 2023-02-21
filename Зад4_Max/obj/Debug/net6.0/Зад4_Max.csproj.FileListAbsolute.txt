@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GB ДЗ\Sem_1 дз\Семинар1\Зад4_Max\obj\Debug\net6.0\Зад4_Max.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GB ДЗ\Sem_1 дз\Семинар1\Зад4_Max\obj\Debug\net6.0\Зад4_Max.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GB ДЗ\Sem_1 дз\Семинар1\Зад4_Max\obj\Debug\net6.0\Зад4_Max.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GB ДЗ\Sem_1 дз\Семинар1\Зад4_Max\obj\Debug\net6.0\Зад4_Max.AssemblyInfo.cs
+C:\Users\User\Desktop\GB ДЗ\Sem_1 дз\Семинар1\Зад4_Max\obj\Debug\net6.0\Зад4_Max.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GB ДЗ\Sem_1 дз\Семинар1\Зад4_Max\bin\Debug\net6.0\Зад4_Max.exe
+C:\Users\User\Desktop\GB ДЗ\Sem_1 дз\Семинар1\Зад4_Max\bin\Debug\net6.0\Зад4_Max.deps.json
+C:\Users\User\Desktop\GB ДЗ\Sem_1 дз\Семинар1\Зад4_Max\bin\Debug\net6.0\Зад4_Max.runtimeconfig.json
+C:\Users\User\Desktop\GB ДЗ\Sem_1 дз\Семинар1\Зад4_Max\bin\Debug\net6.0\Зад4_Max.dll
+C:\Users\User\Desktop\GB ДЗ\Sem_1 дз\Семинар1\Зад4_Max\bin\Debug\net6.0\Зад4_Max.pdb
+C:\Users\User\Desktop\GB ДЗ\Sem_1 дз\Семинар1\Зад4_Max\obj\Debug\net6.0\Зад4_Max.dll
+C:\Users\User\Desktop\GB ДЗ\Sem_1 дз\Семинар1\Зад4_Max\obj\Debug\net6.0\refint\Зад4_Max.dll
+C:\Users\User\Desktop\GB ДЗ\Sem_1 дз\Семинар1\Зад4_Max\obj\Debug\net6.0\Зад4_Max.pdb
+C:\Users\User\Desktop\GB ДЗ\Sem_1 дз\Семинар1\Зад4_Max\obj\Debug\net6.0\Зад4_Max.genruntimeconfig.cache
+C:\Users\User\Desktop\GB ДЗ\Sem_1 дз\Семинар1\Зад4_Max\obj\Debug\net6.0\ref\Зад4_Max.dll
