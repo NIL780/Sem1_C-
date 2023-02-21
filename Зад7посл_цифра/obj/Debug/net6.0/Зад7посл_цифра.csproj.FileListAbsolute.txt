@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GB ДЗ\Sem_1 дз\Семинар1\Зад7посл_цифра\bin\Debug\net6.0\Зад7посл_цифра.exe
+C:\Users\User\Desktop\GB ДЗ\Sem_1 дз\Семинар1\Зад7посл_цифра\bin\Debug\net6.0\Зад7посл_цифра.deps.json
+C:\Users\User\Desktop\GB ДЗ\Sem_1 дз\Семинар1\Зад7посл_цифра\bin\Debug\net6.0\Зад7посл_цифра.runtimeconfig.json
+C:\Users\User\Desktop\GB ДЗ\Sem_1 дз\Семинар1\Зад7посл_цифра\bin\Debug\net6.0\Зад7посл_цифра.dll
+C:\Users\User\Desktop\GB ДЗ\Sem_1 дз\Семинар1\Зад7посл_цифра\bin\Debug\net6.0\Зад7посл_цифра.pdb
+C:\Users\User\Desktop\GB ДЗ\Sem_1 дз\Семинар1\Зад7посл_цифра\obj\Debug\net6.0\Зад7посл_цифра.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GB ДЗ\Sem_1 дз\Семинар1\Зад7посл_цифра\obj\Debug\net6.0\Зад7посл_цифра.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GB ДЗ\Sem_1 дз\Семинар1\Зад7посл_цифра\obj\Debug\net6.0\Зад7посл_цифра.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GB ДЗ\Sem_1 дз\Семинар1\Зад7посл_цифра\obj\Debug\net6.0\Зад7посл_цифра.AssemblyInfo.cs
+C:\Users\User\Desktop\GB ДЗ\Sem_1 дз\Семинар1\Зад7посл_цифра\obj\Debug\net6.0\Зад7посл_цифра.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GB ДЗ\Sem_1 дз\Семинар1\Зад7посл_цифра\obj\Debug\net6.0\Зад7посл_цифра.dll
+C:\Users\User\Desktop\GB ДЗ\Sem_1 дз\Семинар1\Зад7посл_цифра\obj\Debug\net6.0\refint\Зад7посл_цифра.dll
+C:\Users\User\Desktop\GB ДЗ\Sem_1 дз\Семинар1\Зад7посл_цифра\obj\Debug\net6.0\Зад7посл_цифра.pdb
+C:\Users\User\Desktop\GB ДЗ\Sem_1 дз\Семинар1\Зад7посл_цифра\obj\Debug\net6.0\Зад7посл_цифра.genruntimeconfig.cache
+C:\Users\User\Desktop\GB ДЗ\Sem_1 дз\Семинар1\Зад7посл_цифра\obj\Debug\net6.0\ref\Зад7посл_цифра.dll
